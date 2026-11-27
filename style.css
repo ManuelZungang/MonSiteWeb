@@ -40,3 +40,7 @@ footer {
   text-align: center;
   background: #e1eaf4;
 }
+
+#temoignages p {
+  font-style: italic;
+}
